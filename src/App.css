@@ -1,0 +1,14 @@
+.App {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #c2c0c0;
+  overflow-x: hidden;
+  overflow-y: visible;
+  position: relative;
+}
+body {
+  overflow-x: hidden;
+  overflow-y: visible;
+  min-height: 100vh;
+}
+
